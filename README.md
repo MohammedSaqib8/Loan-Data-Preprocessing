@@ -1,3 +1,5 @@
+# Loan Data Preprocessing using NumPy
+
 This project by 365 Careers provided me with gainful insights about being a data analyst. As a main goal for a data analyst, this project involved cleaning and preprocessing the dataset, before handing it over to the Data Scientists for Credit Risk Management (CRM), for ascertaining the probability of default through Machine Learning models. The changes made to the raw dataset was also documented.
 
 The data relates to a Central Bank in Europe.
